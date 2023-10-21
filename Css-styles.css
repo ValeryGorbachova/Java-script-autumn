@@ -1,0 +1,40 @@
+button #Blue {
+    font-size: 18px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    color: black;
+    padding: 5px 12px;
+    cursor: pointer;
+    border: 2px solid;
+    width: 100px;
+    height: 35px;
+    position: fixed;
+    text-align: center;
+}
+
+button #Red {
+    font-size: 18px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    color: black;
+    padding: 5px 12px;
+    cursor: pointer;
+    border: 2px solid;
+    width: 100px;
+    height: 35px;
+    position: fixed;
+    text-align: center;
+}
+button #Green {
+    font-size: 18px;
+    border-radius: 20px;
+    background-color: cadetblue;
+    color: black;
+    padding: 5px 12px;
+    cursor: pointer;
+    border: 2px solid;
+    width: 100px;
+    height: 35px;
+    position: fixed;
+    text-align: center;
+}
